@@ -8,4 +8,5 @@ Comparing the careers of Lebron, Kobe, and Jordan with SQL
 [KOBE IS THE GOAT](https://public.tableau.com/app/profile/jacoby.bell/viz/GOATDASH/Dashboard1)
 
 # PowerBI Visualization
-[Link to PBI.pbix](PBI.pbix)
+[Link to PBI.pbix](PBI.pbix) Click view raw to download file
+(I dont have a business microsoft account so I cant upload to microsoft workspaces)
